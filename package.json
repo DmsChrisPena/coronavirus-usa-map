@@ -1,0 +1,29 @@
+{
+  "name": "coronavirus-usa-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmsChrisPena/coronavirus-usa-map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmsChrisPena/coronavirus-usa-map/issues"
+  },
+  "homepage": "https://github.com/DmsChrisPena/coronavirus-usa-map#readme",
+  "dependencies": {
+    "@amcharts/amcharts4": "^4.9.11",
+    "@amcharts/amcharts4-geodata": "^4.1.12",
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "nodemon": "^2.0.2"
+  }
+}
